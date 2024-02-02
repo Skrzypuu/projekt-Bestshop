@@ -1,0 +1,17 @@
+{
+  "name": "projekt-bestshop",
+  "version": "1.0.0",
+  "description": "A responsive website for \"BestShop\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.70.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12"
+  }
+}
